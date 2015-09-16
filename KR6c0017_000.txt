@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛母般若波羅蜜多圓集要義釋論
+#+DATE: 2015-08-30 19:44:15.920961
+#+PROPERTY: JUAN 0
