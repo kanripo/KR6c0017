@@ -1,26 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:15.604055
+#+DATE: 2015-08-30 19:44:17.126002
 #+TITLE: 佛母般若波羅蜜多圓集要義釋論
 #+PROPERTY: CBETA_ID T25n1517
 #+PROPERTY: ID KR6c0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1517
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0017_T_001-0900c> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1517[cf.No.1518]¶
-
- 《佛母般若波羅蜜多圓集要義釋¶
+No. 1517 [cf. No. 1518]¶
+《佛母般若波羅蜜多圓集要義釋¶
 論》卷第一¶
 ¶
 三寶尊菩薩造¶
 大域龍菩薩造本論¶
 西天譯經三藏朝奉大夫試¶
-光祿卿傳法大師賜紫沙¶
-門臣施護等奉　詔譯¶
+光祿卿傳法大師賜紫沙門臣施護等奉　詔譯¶
 
 #+BEGIN_VERSE
 「　歸命般若波羅蜜
